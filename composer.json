@@ -1,0 +1,23 @@
+{
+  "name": "sbscomp/mollom-client",
+  "description": "A concrete implementation of the Mollom Client",
+  "minimum-stability": "beta",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Douglas Phillips",
+      "email": "doug@sbscomp.com"
+    }
+  ],
+  "require": {
+    "mollom/client": "0.0.1",
+  },
+  "require-dev": {
+      "phpunit/phpunit": "4.7.x-dev"
+  },
+  "autoload": {
+    "psr-0": {
+      "sbscomp": "src/"
+    }
+  }
+}
