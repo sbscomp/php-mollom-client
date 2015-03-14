@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "mollom/client": "0.0.1",
+    "mollom/client": "0.0.1"
   },
   "require-dev": {
       "phpunit/phpunit": "4.7.x-dev"
